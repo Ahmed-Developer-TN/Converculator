@@ -1,22 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Meet Converculator, the ultimate all-in-one calculation and conversion toolkit crafted with a breathtaking, modern Liquid Glass design. Combining high performance with visual elegance, Converculator brings a frosted-glass aesthetic, vibrant dynamic fluid backgrounds, and silky-smooth haptics right to your fingertips.
 
-# Run and deploy your AI Studio app
+Whether you are handling daily math, programming logic, scientific equations, or unit conversions, Converculator delivers an intuitive, clutter-free experience engineered for speed, accuracy, and style.
 
-This contains everything you need to run your app locally.
+Key Features:
+✨ Liquid Glass Design: Enjoy a gorgeous, frosted-glass interface featuring translucent panels, subtle border glows, and dynamic fluid backgrounds that react seamlessly to your touch.
 
-View your app in AI Studio: https://ai.studio/apps/6b7cba53-530b-4607-871c-7ad1504902d4
+🔢 Advanced Calculators:
 
-## Run Locally
+Standard & Scientific Mode: Handle everyday arithmetic as well as complex trigonometric functions, logarithms, factorials, and angle unit toggles (DEG / RAD).
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+Grapher Mode: Plot and visualize mathematical functions interactively with full pan and pinch-to-zoom support.
 
+Programmer Mode: Perform real-time base conversions (HEX, DEC, OCT, BIN), bitwise operations (AND, OR, XOR, NOT, shifts), and word-size adjustments (QWORD to BYTE).
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
-7. If you have already published your app in AI Studio, please [request upload key reset](https://support.google.com/googleplay/android-developer/answer/9842756#zippy=%2Crequest-an-upload-key-reset) in Google Play Console.
+Date Calculator: Effortlessly compute time spans between dates or add/subtract days.
+
+Smart Utilities: Built-in discount and tip calculators for effortless shopping and bill splitting.
+
+📏 Comprehensive Unit Converter: Quickly convert units across multiple categories including Length, Mass, Temperature, Pressure, Energy, Power, Speed, Volume, and Area—with options to save your favorite conversions for instant access.
+
+⚡ Responsive & Haptic: Designed with custom tactile haptic feedback for every keypress, operator tap, and result calculation.
+
+🌙 Adaptive Themes: Seamlessly switches between gorgeous light and dark modes to suit your preference and environment.
+
+Download Converculator today and upgrade your daily calculation experience!
