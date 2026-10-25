@@ -1,0 +1,6 @@
+{
+  "name": "Calc Glass",
+  "description": "OxygenOS 16 style liquid glass calculator and multi-category unit converter with scientific, grapher, programmer, and date calculation modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
